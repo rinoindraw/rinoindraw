@@ -2,9 +2,10 @@
 
 I am a passionate **Software Developer** with a solid background in **Information Technology**. My primary focus lies in **Web Development**, **Android Development**, and **IoT Engineering**. I thrive on creating efficient, user-friendly applications and IoT systems that solve real-world problems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinoindraw&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinoindraw&layout=donut-vertical&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rinoindraw&show_icons=true&theme=blueberry" alt="GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinoindraw&layout=compact&show_icons=true&theme=blueberry" alt="Top Languages" style="width: 48%; margin-left: 10px;" />
+</div>
 
 ## 🔭 Current Interests
 - **Web Development**: Building responsive and dynamic web applications using modern frameworks and technologies.
@@ -17,13 +18,13 @@ I am a passionate **Software Developer** with a solid background in **Informatio
 - Optimizing web performance and **full-stack** development.
 
 ## 🏆 Achievements
-- Funding Recipients of **Student Creativity Program (PKM)** Karsa Cipta Scheme
-- **Third Runners Up** And **Performance Award** In **World Robot Games 2022**
+- Funding Recipients of **Student Creativity Program (PKM)** Karsa Cipta Scheme.
+- **Third Runners Up** and **Performance Award** in **World Robot Games 2022**.
 
 ## 📫 Connect with me!
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rino-indra-wicaksono-43582b235/)
 - **Portfolio**: [Portfolio](https://rinoprofile.netlify.app/)
-- **Email**: [Email](mailto:your.email@rinoindra75@gmail.com)
+- **Email**: [Email](mailto:rinoindra75@gmail.com)
 
 ---
 
