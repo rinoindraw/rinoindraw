@@ -22,9 +22,9 @@ I am a passionate **Software Developer** with a solid background in **Informatio
 - Contributed to **open-source projects** and participated in **hackathons**.
 
 ## 📫 Connect with me!
-- **LinkedIn**: [[Your LinkedIn](https://www.linkedin.com/in/rino-indra-wicaksono-43582b235/)](link)
-- **Portfolio**: [[Your Portfolio](https://rinoprofile.netlify.app/)](link)
-- **Email**: [Your Email(rinoindra75@gmail.com)](mailto:your.email@example.com)
+- **LinkedIn**: [[Your LinkedIn](https://www.linkedin.com/in/rino-indra-wicaksono-43582b235/)]
+- **Portfolio**: [[Your Portfolio](https://rinoprofile.netlify.app/)]
+- **Email**: [Your Email](mailto:your.email@rinoindra75@gmail.com)
 
 ---
 
