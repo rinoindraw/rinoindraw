@@ -2,9 +2,9 @@
 
 I am a passionate **Software Developer** with a solid background in **Information Technology**. My primary focus lies in **Web Development**, **Android Development**, and **IoT Engineering**. I thrive on creating efficient, user-friendly applications and IoT systems that solve real-world problems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinoindraw&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinoindraw&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinoindraw&layout=donut-vertical&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinoindraw&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Current Interests
 - **Web Development**: Building responsive and dynamic web applications using modern frameworks and technologies.
@@ -12,19 +12,18 @@ I am a passionate **Software Developer** with a solid background in **Informatio
 - **IoT Engineering**: Integrating smart solutions and building efficient systems to improve everyday tasks.
 
 ## 🌱 I’m currently learning
-- Advanced **IoT protocols** and real-time monitoring solutions.
 - **State management** for complex web and mobile applications.
+- Advanced **IoT protocols** and real-time monitoring solutions.
 - Optimizing web performance and **full-stack** development.
 
 ## 🏆 Achievements
-- Created various **web and mobile applications** including [Project Examples](link to repo if available).
-- Developed **IoT-based monitoring systems** for industrial applications.
-- Contributed to **open-source projects** and participated in **hackathons**.
+- Funding Recipients of **Student Creativity Program (PKM)** Karsa Cipta Scheme
+- **Third Runners Up** And **Performance Award** In **World Robot Games 2022**
 
 ## 📫 Connect with me!
-- **LinkedIn**: [[Your LinkedIn](https://www.linkedin.com/in/rino-indra-wicaksono-43582b235/)]
-- **Portfolio**: [[Your Portfolio](https://rinoprofile.netlify.app/)]
-- **Email**: [Your Email](mailto:your.email@rinoindra75@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rino-indra-wicaksono-43582b235/)
+- **Portfolio**: [Portfolio](https://rinoprofile.netlify.app/)
+- **Email**: [Email](mailto:your.email@rinoindra75@gmail.com)
 
 ---
 
