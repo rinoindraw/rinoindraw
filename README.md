@@ -2,9 +2,9 @@
 
 I am a passionate **Software Developer** with a solid background in **Information Technology**. My primary focus lies in **Web Development**, **Android Development**, and **IoT Engineering**. I thrive on creating efficient, user-friendly applications and IoT systems that solve real-world problems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinoindraw&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinoindraw&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinoindraw&layout=donut-vertical&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinoindraw&layout=donut-vertical&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Current Interests
 - **Web Development**: Building responsive and dynamic web applications using modern frameworks and technologies.
