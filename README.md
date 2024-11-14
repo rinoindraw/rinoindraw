@@ -1,19 +1,27 @@
-## Hi there 👋
+# Hello there! 👋 Welcome to my GitHub profile!
 
-## My Stats 
-https://github.com/rinoindraw-my-stats
+I am a passionate **Software Developer** with a solid background in **Information Technology**. My primary focus lies in **Web Development**, **Android Development**, and **IoT Engineering**. I thrive on creating efficient, user-friendly applications and IoT systems that solve real-world problems.
 
-<!--
-**rinoindraw/rinoindraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Interests
+- **Web Development**: Building responsive and dynamic web applications using modern frameworks and technologies.
+- **Android Development**: Crafting seamless mobile experiences using Native Kotlin and Flutter.
+- **IoT Engineering**: Integrating smart solutions and building efficient systems to improve everyday tasks.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Advanced **IoT protocols** and real-time monitoring solutions.
+- **State management** for complex web and mobile applications.
+- Optimizing web performance and **full-stack** development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+- Created various **web and mobile applications** including [Project Examples](link to repo if available).
+- Developed **IoT-based monitoring systems** for industrial applications.
+- Contributed to **open-source projects** and participated in **hackathons**.
+
+## 📫 Connect with me!
+- **LinkedIn**: [Your LinkedIn](link)
+- **Portfolio**: [Your Portfolio](link)
+- **Email**: [Your Email](mailto:your.email@example.com)
+
+---
+
+> "Strive not to be a success, but rather to be of value." – *Albert Einstein*
