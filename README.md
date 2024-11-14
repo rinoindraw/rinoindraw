@@ -23,8 +23,6 @@ I am a passionate **Software Developer** with a solid background in **Informatio
 - **Portfolio**: [Portfolio](https://rinoprofile.netlify.app/)
 - **Email**: [Email](mailto:rinoindra75@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinoindraw&show_icons=true&theme=cobalt )
-
 ---
 
 > "Strive not to be a success, but rather to be of value." – *Albert Einstein*
