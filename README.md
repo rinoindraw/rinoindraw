@@ -4,6 +4,8 @@ I am a passionate **Software Developer** with a solid background in **Informatio
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinoindraw)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinoindraw)
+
 ## 🔭 Current Interests
 - **Web Development**: Building responsive and dynamic web applications using modern frameworks and technologies.
 - **Android Development**: Crafting seamless mobile experiences using Native Kotlin and Flutter.
