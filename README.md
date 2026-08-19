@@ -1,28 +1,50 @@
-# Hello there! 👋 Welcome to my GitHub profile!
+# Hi, I'm Rino 👋
 
-I am a passionate **Software Developer** with a solid background in **Information Technology**. My primary focus lies in **Web Development**, **Android Development**, and **IoT Engineering**. I thrive on creating efficient, user-friendly applications and IoT systems that solve real-world problems.
+**I'd rather understand the machinery than just import it.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinoindraw&layout=donut-vertical&show_icons=true&theme=cobalt )](https://github.com/anuraghazra/github-readme-stats)
+Full-stack developer building web and mobile applications end to end — the
+interface people touch, the API behind it, and the data layer underneath. When a
+tool does something clever on my behalf, I tend to rebuild it in miniature until
+I know exactly what it was doing for me.
 
-## 🔭 Current Interests
-- **Web Development**: Building responsive and dynamic web applications using modern frameworks and technologies.
-- **Android Development**: Crafting seamless mobile experiences using Native Kotlin and Flutter.
-- **IoT Engineering**: Integrating smart solutions and building efficient systems to improve everyday tasks.
+## 💼 Experience
 
-## 🌱 I’m currently learning
-- **State management** for complex web and mobile applications.
-- Advanced **IoT protocols** and real-time monitoring solutions.
-- Optimizing web performance and **full-stack** development.
+**Full-Stack Developer** · Bengawan Tirta Rekayasa · 01/2025 - Present
 
-## 🏆 Achievements
-- Funding Recipients of **Student Creativity Program (PKM)** Karsa Cipta Scheme.
-- **Third Runners Up** and **Performance Award** in **World Robot Games 2022**.
+Building and maintaining a production platform for environmental data analysis
+(product details under NDA).
 
-## 📫 Connect with me!
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rino-indra-wicaksono-43582b235/)
-- **Portfolio**: [Portfolio](https://rinoprofile.netlify.app/)
-- **Email**: [Email](mailto:rinoindra75@gmail.com)
+- Own the web application end to end: interactive mapping, data visualisation,
+  document generation, and an administration area for managing users and content
+- Built the backend as an asynchronous API over a relational database, handling
+  scientific data processing and producing downloadable reports on demand
+- Build companion mobile applications, both natively for Android and
+  cross-platform, sharing authentication and data flows with the web platform so
+  the two stay consistent
+- Design mobile interfaces around how phones are actually used — one-handed,
+  briefly, and often on an unreliable connection
+- Delivered a fully bilingual interface across 800+ translated strings, with
+  light and dark themes and layouts that hold from desktop down to phone screens
+- Handle the work most projects postpone: caching and query tuning for slow data
+  sources, error handling that degrades gracefully instead of failing loudly, and
+  keeping a codebase of roughly 30,000 lines navigable as it grows
+- Collaborate directly with domain experts, translating specialist requirements
+  into interfaces that non-technical users can operate confidently
 
----
+## 🛠 Working with
 
-> "Strive not to be a success, but rather to be of value." – *Albert Einstein*
+`TypeScript` · `JavaScript` · `React` · `Python` · `Kotlin` · `Flutter` · `SQL`
+· `Docker` · `Git`
+
+## 🏆 Recognition
+
+- Funding recipient, **Student Creativity Program (PKM)** — Karsa Cipta scheme
+- **Third Runner-Up** and **Performance Award**, World Robot Games 2022
+
+## 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/rino-indra-wicaksono-43582b235/) ·
+[Portfolio](https://rinoprofile.netlify.app/) ·
+[Email](mailto:rinoindra75@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinoindraw&layout=donut-vertical&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
