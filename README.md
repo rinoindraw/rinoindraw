@@ -47,4 +47,7 @@ Building and maintaining a production platform for environmental data analysis
 [Portfolio](https://rinoprofile.netlify.app/) ·
 [Email](mailto:rinoindra75@gmail.com)
 
-[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rinoindraw&theme=nord_dark)](https://github.com/rinoindraw)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rinoindraw&theme=nord_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rinoindraw&theme=nord_dark" height="180" />
+</p>
