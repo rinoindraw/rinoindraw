@@ -14,7 +14,7 @@ I know exactly what it was doing for me.
 Building and maintaining a production platform for environmental data analysis
 (product details under NDA).
 
-- Own the web application end to end: interactive mapping, data visualisation,
+- Develop the web application end to end: interactive mapping, data visualisation,
   document generation, and an administration area for managing users and content
 - Built the backend as an asynchronous API over a relational database, handling
   scientific data processing and producing downloadable reports on demand
