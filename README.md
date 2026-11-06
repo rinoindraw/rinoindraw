@@ -81,7 +81,7 @@ are fixed once and for good.
 ## 📫 Reach me
 
 [LinkedIn](https://www.linkedin.com/in/rino-indra-wicaksono-43582b235/) ·
-[Portfolio](https://rinoprofile.netlify.app/) ·
+[Portfolio](https://rinoindraw.vercel.app/) ·
 [Email](mailto:rinoindra75@gmail.com)
 
 ## 📊 GitHub Stats
