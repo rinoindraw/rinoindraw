@@ -73,7 +73,7 @@ are fixed once and for good.
 </table>
 
 
-## 🏆 Before all this, robots
+## 🏆 Before all this
 
 - 🥉 **Third Runner-Up** and **Performance Award**, World Robot Games 2022
 - 💡 Funding recipient, **Student Creativity Program (PKM)**, Karsa Cipta scheme
