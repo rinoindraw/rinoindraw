@@ -39,15 +39,39 @@ are fixed once and for good.
 
 ## 🛠 Toolbox
 
-| | |
-|---|---|
-| **Languages** | TypeScript · JavaScript · Python · Kotlin · Dart · SQL |
-| **Frontend** | React · Vite · Zustand · TanStack Query · Leaflet · SCSS |
-| **Backend** | FastAPI · Node/Express · NestJS · Redis |
-| **Mobile** | Flutter · Android |
-| **Data** | PostgreSQL · MySQL · Firebase |
-| **Hardware** | ESP32 |
-| **Tooling** | Docker · Git · Vitest · pytest · Playwright |
+<table>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>TypeScript · JavaScript · Python · Kotlin · Dart · SQL</td>
+    </tr>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>React · Vite · Zustand · TanStack Query · Leaflet · SCSS</td>
+    </tr>
+    <tr>
+      <td><b>Backend</b></td>
+      <td>FastAPI · Node/Express · NestJS · Redis</td>
+    </tr>
+    <tr>
+      <td><b>Mobile</b></td>
+      <td>Flutter · Android</td>
+    </tr>
+    <tr>
+      <td><b>Data</b></td>
+      <td>PostgreSQL · MySQL · Firebase</td>
+    </tr>
+    <tr>
+      <td><b>Hardware</b></td>
+      <td>ESP32</td>
+    </tr>
+    <tr>
+      <td><b>Tooling</b></td>
+      <td>Docker · Git · Vitest · pytest · Playwright</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 🏆 Before all this, robots
 
