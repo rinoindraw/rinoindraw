@@ -87,7 +87,7 @@ are fixed once and for good.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinoindraw&theme=nord_dark" width="99.45%" alt="Rino's Profile Details" /></a><br>
+  <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinoindraw&theme=nord_dark" width="99.5%" alt="Rino's Profile Details" /></a><br>
   <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rinoindraw&theme=nord_dark" width="49.5%" alt="Rino's GitHub Stats" /></a>
   <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rinoindraw&theme=nord_dark" width="49.5%" alt="Rino's Repos per Language" /></a><br>
   <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rinoindraw&theme=nord_dark" width="49.5%" alt="Rino's Most Commit Language" /></a>
