@@ -2,44 +2,57 @@
 
 **I'd rather understand the machinery than just import it.**
 
-Full-stack developer building web and mobile applications end to end — the
-interface people touch, the API behind it, and the data layer underneath. When a
-tool does something clever on my behalf, I tend to rebuild it in miniature until
-I know exactly what it was doing for me.
+I'm a full-stack developer building web and mobile apps end to end. That covers
+the interface people touch, the API behind it, the data layer underneath, and
+sometimes the hardware that feeds it. When a tool does something clever on my behalf,
+I rebuild it in miniature until I know exactly what it is doing for me.
 
-## 💼 Experience
+## 🧭 What I do
 
-**Full-Stack Developer** · Bengawan Tirta Rekayasa · 01/2025 - Present
+I turn ideas into complete products, from the first screen to the database behind
+it, on web, mobile and connected devices. I also care about the details that
+make software feel solid: background jobs that never lose work, careful
+authentication, fast data, and errors that fail gracefully instead of loudly.
 
-Building and maintaining a production platform for environmental data analysis
-(product details under NDA).
+I enjoy the hard problems best: a bug only one browser shows, a file that downloads
+corrupted, a layout that is a few pixels off. I find their root cause, so they
+are fixed once and for good.
 
-- Develop the web application end to end: interactive mapping, data visualisation,
-  document generation, and an administration area for managing users and content
-- Built the backend as an asynchronous API over a relational database, handling
-  scientific data processing and producing downloadable reports on demand
-- Build companion mobile applications, both natively for Android and
-  cross-platform, sharing authentication and data flows with the web platform so
-  the two stay consistent
-- Design mobile interfaces around how phones are actually used — one-handed,
-  briefly, and often on an unreliable connection
-- Delivered a fully bilingual interface across 800+ translated strings, with
-  light and dark themes and layouts that hold from desktop down to phone screens
-- Handle the work most projects postpone: caching and query tuning for slow data
-  sources, error handling that degrades gracefully instead of failing loudly, and
-  keeping a codebase of roughly 30,000 lines navigable as it grows
-- Collaborate directly with domain experts, translating specialist requirements
-  into interfaces that non-technical users can operate confidently
+## 🧪 Things I build
 
-## 🛠 Working with
+- **Data-rich web platforms**: interactive maps, live dashboards, one-click reports
+  and real-time collaboration. Bilingual, themeable and ready for production.
+- **Mobile apps**: native Android and cross-platform apps built for one-handed use
+  and patchy connections, sharing accounts and data seamlessly with the web.
+- **Real-time IoT systems**: devices that send live readings straight to the
+  browser, from sensor to screen.
+- **Productivity tools**: task boards and visual planners that help teams see their
+  work at a glance.
+- **Fast, polished websites**: pages that load quickly, with a CMS that is easy for
+  non-technical owners to update.
+- **Solid foundations**: background job queues and secure authentication, built
+  from first principles so they hold up when it matters.
 
-`TypeScript` · `JavaScript` · `React` · `Python` · `Kotlin` · `Flutter` · `SQL`
-· `Docker` · `Git`
+## 💼 Currently
 
-## 🏆 Recognition
+**Full-Stack Developer** at Bengawan Tirta Rekayasa (01/2025 – Present). I build system applications for environmental data analysis.
 
-- Funding recipient, **Student Creativity Program (PKM)** — Karsa Cipta scheme
-- **Third Runner-Up** and **Performance Award**, World Robot Games 2022
+## 🛠 Toolbox
+
+| | |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · Kotlin · Dart · SQL |
+| **Frontend** | React · Vite · Zustand · TanStack Query · Leaflet · SCSS |
+| **Backend** | FastAPI · Node/Express · NestJS · Redis |
+| **Mobile** | Flutter · Android |
+| **Data** | PostgreSQL · MySQL · Firebase |
+| **Hardware** | ESP32 |
+| **Tooling** | Docker · Git · Vitest · pytest · Playwright |
+
+## 🏆 Before all this, robots
+
+- 🥉 **Third Runner-Up** and **Performance Award**, World Robot Games 2022
+- 💡 Funding recipient, **Student Creativity Program (PKM)**, Karsa Cipta scheme
 
 ## 📫 Reach me
 
@@ -47,4 +60,12 @@ Building and maintaining a production platform for environmental data analysis
 [Portfolio](https://rinoprofile.netlify.app/) ·
 [Email](mailto:rinoindra75@gmail.com)
 
-[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rinoindraw&theme=nord_dark)](https://github.com/rinoindraw)
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinoindraw&theme=nord_dark" width="99.45%" alt="Rino's Profile Details" /></a><br>
+  <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rinoindraw&theme=nord_dark" width="49.5%" alt="Rino's GitHub Stats" /></a>
+  <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rinoindraw&theme=nord_dark" width="49.5%" alt="Rino's Repos per Language" /></a><br>
+  <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rinoindraw&theme=nord_dark" width="49.5%" alt="Rino's Most Commit Language" /></a>
+  <a href="https://github.com/rinoindraw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rinoindraw&theme=nord_dark" width="49.5%" alt="Rino's Productive Time" /></a>
+</div>
